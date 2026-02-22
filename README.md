@@ -4,7 +4,8 @@ Import images to into gd!
 How to use:
 link
 
-
+Convert images to objects:
+https://www.samcodes.co.uk/project/geometrize-haxe-web/
 
 
 
