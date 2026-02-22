@@ -1,4 +1,4 @@
-# Anodized Importer
+# Anodized Image Importer
 Import images to into gd!
 
 How to use:
