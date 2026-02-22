@@ -1,6 +1,9 @@
 # Anodized Image Importer
 Import images to into gd!
 
+download here:
+https://github.com/An0dized/gd-image-importer/releases/tag/AnodizedImporterv1.0
+
 How to use:
 link
 
