@@ -1,2 +1,5 @@
-# gd-image-importer
-Import images to gd!
+# Anodized Importer
+Import images to into gd!
+
+How to use?
+
