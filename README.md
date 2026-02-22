@@ -5,7 +5,7 @@ download here:
 https://github.com/An0dized/gd-image-importer/releases/tag/AnodizedImporterv1.0
 
 How to use:
-link
+https://www.youtube.com/watch?v=LAYJqHAbEDA
 
 Convert images to objects:
 https://www.samcodes.co.uk/project/geometrize-haxe-web/
